@@ -414,7 +414,7 @@
         </div>
         @endif
         <div>
-            <img src="img/banner.jpeg" alt="banner" />
+            <img src="img/banner.png" alt="banner" />
         </div>
     </div>
 </body>
